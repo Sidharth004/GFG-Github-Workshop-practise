@@ -2,6 +2,14 @@
 
 ## Activity 
 
-1. Fork the repository link shared on the Whatsapp group.clone the forked repository from your account 
-2. Once the repo is on your local system ,create a new branch and name it as roll no.(TI14/TC11).Modify the Cloned Readme file  and add your hobbies into it and then Commit the changes of markdown file in new branch
-3. Push the changes made in the readme file to your repository
+Hi this is Sidharth Kumthekar ! 
+Listed down , below are my hobbies :
+1>Listining to WEB 3.0 specific podcasts .
+2>Reading comics 
+3>Watching Marvel Movies .....Huge marvel fan boii ......#WAKANDA FOREVER !
+4>Play football ....be it on the actual pitch or with my controller (FIFA 22)
+5>Love to cook ..unhealthy food 
+6>Love to engage in tech communites and converse with like minded buddiess about emerging trends and interests in the world of technology !
+
+...that's wnough for now ig.
+GG !
