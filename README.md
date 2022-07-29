@@ -2,7 +2,6 @@
 
 ## Activity 
 
-1. Clone the repo.
-2. Once the repo is on your local system ,create a new branch and name it as roll no.(TI14/TC11).Add the markdown file to the branch and push it to branch.
-3. Create a file ( naming the file with your full name ( ie - xyz.md ) , with markdown extension, and share your hobbies in the file using markdown ). Push on your branch and 
-
+1. Fork the repository link shared on the Whatsapp group.clone the forked repository from your account 
+2. Once the repo is on your local system ,create a new branch and name it as roll no.(TI14/TC11).Modify the Cloned Readme file  and add your hobbies into it and then Commit the changes of markdown file in new branch
+3. Push the changes made in the readme file to your repository
